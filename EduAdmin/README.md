@@ -34,7 +34,7 @@ Before running the project, ensure that you have the following dependencies inst
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/EduAdmin.git
+git clone https://github.com/nilaykansagara/.Net-Framework-Project
 
 2. Open the project in Visual Studio.
 
